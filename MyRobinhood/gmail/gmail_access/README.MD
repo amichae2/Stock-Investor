@@ -1,0 +1,2 @@
+-this quickstart is here to understand how this works and to hold credentials
+-the only file that matters in this for doing something useful is the credentials.json
